@@ -32,21 +32,6 @@ A real-time 2D fluid simulation built in Unity 6. This project simulates the beh
 
 ---
 
-## 🗂️ Project Structure
-Assets/
-├── Scenes/
-│ └── MainScene.unity
-├── Scripts/
-│ ├── FluidController.cs
-│ ├── ParticleBehavior.cs
-│ └── BoundaryManager.cs
-├── UI/
-│ └── Sliders, buttons, and display text
-
-> Feel free to customize this tree based on your actual project folders.
-
----
-
 ## 📄 License
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
