@@ -1,4 +1,4 @@
-# Fluid Simulation
+# 2D Fluid Simulation
 
 A real-time 2D fluid simulation built in Unity 6. This project simulates the behavior of fluid particles in a confined space, allowing interactive control of pressure, temperature, and boundary dynamics. Designed as both a physics demo and an educational tool.
 
